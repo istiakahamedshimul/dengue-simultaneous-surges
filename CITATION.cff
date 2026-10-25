@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated study and this software."
+title: "Simultaneous dengue surges across Brazilian municipalities"
+type: software
+authors:
+  - family-names: Ahmed
+    given-names: Istiak
+repository-code: "https://github.com/istiakahamedshimul/dengue-simultaneous-surges"
+license: MIT
+version: 2.0.0
+date-released: 2026-10-25
+keywords:
+  - dengue
+  - probabilistic forecasting
+  - dependence
+  - regional preparedness
+  - Brazil

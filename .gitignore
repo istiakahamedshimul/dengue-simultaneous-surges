@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+.venv/
+__pycache__/
+dengue_full_outputs/
+dengue_full_results.zip
+*.py[cod]
+.DS_Store
